@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sadad,<a href="https://linkedin.com/in/Josh">Tech Enthusiast</a>☺</h1>
+<h1>Hi, I'm Sadad,<a href="https://linkedin.com/in/Josh"> Tech Enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
