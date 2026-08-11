@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sadad,<a href="https://linkedin.com/in/Josh"> Tech Enthusiast</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Tech Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Only1Sadad/osticket-prereqs)
