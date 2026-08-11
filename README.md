@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Tech Projects:</h2>
 
+- <b>Automated User Onboarding & Access Control System</b>
+- [Project] ()
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Only1Sadad/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Only1Sadad/post-install-config)
